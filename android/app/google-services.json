@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "31323678016",
+    "project_id": "sovereign-ledger-hng-14-mobile",
+    "storage_bucket": "sovereign-ledger-hng-14-mobile.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31323678016:android:3c329e71661e16e0adc6a5",
+        "android_client_info": {
+          "package_name": "com.example.expense_tracker_app_hng_14_stage_2_mobile_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl4fqPdSCw1b0SBSf8QNLBs3TpP-z_MkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
